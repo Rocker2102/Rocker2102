@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankush Yadav 😀</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rocker2102&color=blueviolet&label=Profile+Views" alt="rocker2102" /> </p>
-<img src="https://github-readme-stats.vercel.app/api/?username=rocker2102&layout=compact&count_private=true&show_icons=true&theme=radical" alt="rocker2102" />
 
 <p align="left"><img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
@@ -14,6 +13,7 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocker2102&layout=compact&count_private=true&hide=html&theme=buefy" alt="top-langs" />
+<img src="https://github-readme-stats.vercel.app/api/?username=rocker2102&layout=compact&count_private=true&show_icons=true&theme=radical" alt="rocker2102" />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rocker2102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/linkedin/linkedin-original.svg" alt="rocker2102" height="30" width="30" /></a>
