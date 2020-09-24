@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankush Yadav 😀</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rocker2102&color=blueviolet&label=Profile+Views" alt="rocker2102" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rocker2102&color=blueviolet&label=Profile+Views" alt="rocker2102" /> </p>
 
 <p align="left"><img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/cplusplus/cplusplus-line.svg" alt="c++" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/github/github-original.svg" alt="git" width="40" height="40"/>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocker2102&layout=compact&count_private=true&hide=html&theme=buefy" alt="top-langs" /> <img src="https://github-readme-stats.vercel.app/api/?username=rocker2102&layout=compact&count_private=true&show_icons=true&theme=radical" alt="rocker2102" />
