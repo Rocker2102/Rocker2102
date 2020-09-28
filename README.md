@@ -17,7 +17,9 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/img/code.gif" alt="gif">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/img/code.gif" alt="gif">
+</p>
 
 <br>
 
