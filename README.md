@@ -14,6 +14,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocker2102&layout=compact&count_private=true&theme=buefy" alt="top-langs" /> <img src="https://github-readme-stats.vercel.app/api/?username=rocker2102&layout=compact&count_private=true&show_icons=true&theme=radical" alt="rocker2102" />
 
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/img/code.gif" alt="gif">
+
+<br>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/rocker2102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/linkedin/linkedin-original.svg" alt="rocker2102" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/11625355/rocker2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/stackoverflow/stackoverflow-original.svg" alt="rocker2102" height="30" width="30" /></a>
