@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/express-js/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/laravel/laravel-logo." alt="laravel" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/laravel/laravel-logo.png" alt="laravel" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/cplusplus/cplusplus-line.svg" alt="c++" width="40" height="40"/> 
