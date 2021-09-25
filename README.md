@@ -4,11 +4,13 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/visualstudio/visualstudio-code-plain.svg" alt="vscode" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/express-js/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/reactjs/react-original.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/material-ui/materialui-original.svg" alt="material-ui" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/express-js/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/composer/composer-line-wordmark.svg" alt="composer" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/laravel/laravel-logo.png" alt="laravel" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/cplusplus/cplusplus-line.svg" alt="c++" width="40" height="40"/> 
@@ -17,11 +19,12 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocker2102&layout=compact&count_private=true&theme=buefy" alt="top-langs" height="180" /> <img src="https://github-readme-stats.vercel.app/api/?username=rocker2102&layout=compact&count_private=true&show_icons=true&theme=radical" alt="rocker2102" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocker2102&layout=compact&count_private=true&theme=buefy" alt="top-langs" height="180" width="40%" /> <img src="https://github-readme-stats.vercel.app/api/?username=rocker2102&layout=compact&count_private=true&show_icons=true&theme=radical" alt="rocker2102" width="50%" height="180" />
 </p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/rocker2102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/linkedin/linkedin-original.svg" alt="rocker2102" height="30" width="30" /></a>
     <a href="https://stackoverflow.com/users/11625355/rocker2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/stackoverflow/stackoverflow-original.svg" alt="rocker2102" height="30" width="30" /></a>
     <a href="https://www.hackerrank.com/Rocker2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/hackerrank/hackerrank-original.svg" alt="rocker2102" height="30" width="30" /></a>
+    <a href="https://leetcode.com/rocker2102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/leetcode/leetcode-iconscout-icon54.svg" alt="rocker2102" height="30" width="30" /></a>
 </p>
