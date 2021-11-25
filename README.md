@@ -30,7 +30,8 @@
 
 ## Connect with me 🤝
 
-<a href="https://www.linkedin.com/in/rocker2102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/linkedin/linkedin-original.svg" alt="rocker2102" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/11625355/rocker2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/stackoverflow/stackoverflow-original.svg" alt="rocker2102" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/Rocker2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/hackerrank/hackerrank-original.svg" alt="rocker2102" height="30" width="30" /></a>
-<a href="https://leetcode.com/rocker2102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/leetcode/leetcode-iconscout-icon54.svg" alt="rocker2102" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/rocker2102/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/linkedin/linkedin-original.svg" alt="rocker2102" height="30" width="30" /></a>
+<a href="https://www.facebook.com/rocker2102" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/facebook/facebook-original.svg" alt="rocker2102" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/11625355/rocker2102" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/stackoverflow/stackoverflow-original.svg" alt="rocker2102" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/Rocker2102" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/hackerrank/hackerrank-original.svg" alt="rocker2102" height="30" width="30" /></a>
+<a href="https://leetcode.com/rocker2102/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/leetcode/leetcode-iconscout-icon54.svg" alt="rocker2102" height="30" width="30" /></a>
