@@ -13,8 +13,7 @@
 
 ## Database Technologies
 
-<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
 
 ## Tools & Frameworks
 
@@ -28,9 +27,8 @@
 <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/github/github-original.svg" alt="git" width="40" height="40"/>
 
 ## My Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocker2102&layout=compact&count_private=true&theme=buefy" alt="top-langs" height="180" width="45%" style="margin-top: 10px" /> <img src="https://github-readme-stats.vercel.app/api/?username=rocker2102&layout=compact&count_private=true&show_icons=true&theme=radical" alt="rocker2102" width="45%" height="180" />
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocker2102&layout=compact&count_private=true&theme=buefy" alt="top-langs" height="180" style="margin-top: 10px" /> <img src="https://github-readme-stats.vercel.app/api/?username=rocker2102&layout=compact&count_private=true&show_icons=true&theme=radical" alt="rocker2102" height="180" />
 
 ## Connect with me 🤝
 
