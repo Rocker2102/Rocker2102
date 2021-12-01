@@ -26,7 +26,7 @@
 
 ## My Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocker2102&layout=compact&count_private=true&theme=buefy" alt="top-langs" height="150" style="margin-top: 10px" /> <img src="https://github-readme-stats.vercel.app/api/?username=rocker2102&layout=compact&count_private=true&show_icons=true&theme=radical" alt="rocker2102" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocker2102&layout=compact&count_private=true&theme=buefy&hide=html,css,blade,shell" alt="top-langs" height="150" style="margin-top: 10px" /> <img src="https://github-readme-stats.vercel.app/api/?username=rocker2102&layout=compact&count_private=true&show_icons=true&theme=radical" alt="rocker2102" height="150" />
 
 ## Connect with me 🤝
 
