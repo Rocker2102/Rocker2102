@@ -33,9 +33,6 @@
 
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=Rocker2102&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=Rocker2102&theme=prussian&hide_border=true" />
-</p>
-
-<p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocker2102&theme=prussian&hide_border=true&layout=compact&count_private=true&hide=html,css,blade,shell" alt="top-langs" />
+  <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=Rocker2102&theme=prussian&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocker2102&theme=prussian&hide_border=true&layout=compact&count_private=true&hide=html,css,blade,shell" alt="top-langs" />
 </p>
